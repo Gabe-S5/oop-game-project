@@ -10,3 +10,5 @@
 * Press Spacebar to pause and unpause the game
 * Press R to restart the game whenever you like
 * Press 2-4 to set the number of max enemies
+
+Link to game [here](https://gabe-s5.github.io/oop-game-project/)
